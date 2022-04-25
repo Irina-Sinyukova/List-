@@ -1,0 +1,7 @@
+C:\Users\Студент\Desktop\ИСП20А\ОАП\Синюкова и Суханова\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ИСП20А\ОАП\Синюкова и Суханова\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ИСП20А\ОАП\Синюкова и Суханова\List\bin\Debug\List.exe.config
+C:\Users\Студент\Desktop\ИСП20А\ОАП\Синюкова и Суханова\List\bin\Debug\List.exe
+C:\Users\Студент\Desktop\ИСП20А\ОАП\Синюкова и Суханова\List\bin\Debug\List.pdb
+C:\Users\Студент\Desktop\ИСП20А\ОАП\Синюкова и Суханова\List\obj\Debug\List.exe
+C:\Users\Студент\Desktop\ИСП20А\ОАП\Синюкова и Суханова\List\obj\Debug\List.pdb
